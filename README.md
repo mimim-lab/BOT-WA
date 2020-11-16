@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 087848115476 MiMiM
+* Pulsa : 087848115476 MiMiM
