@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BOT-WA'; 
+const BotName = ' *BOT-WA* '; 
 const instagram = 'https://www.instagram.com/kreasi.editing_official/'; 
 const telegram = 'https://t.me/MiMiMBOTWA'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
