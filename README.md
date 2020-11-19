@@ -1,4 +1,4 @@
-## NAMA BOT
+## ROKHIM
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-*
+* PULSA : 087848115476
