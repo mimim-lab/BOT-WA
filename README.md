@@ -1,4 +1,4 @@
-## NAMA BOT
+## BOT WA
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -49,7 +49,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`BOT-WA`](https://github.com/mimim-lab/BOT-WA)
 
 ## DONASI
-*
+* Pulsa : 087848115476
