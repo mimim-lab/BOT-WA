@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'BOT-WA'; 
 const instagram = 'https://www.instagram.com/kreasi.editing_official/';
-const instagram = 'https://www.instagram.com/riskaa.pr_/';
+
 const telegram = 'https://t.me/MiMiMBOTWA'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'Nggak Punya:v';
