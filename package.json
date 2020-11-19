@@ -1,5 +1,5 @@
 {
-  "name": "BOT-WA",
+  "name": "BetaBOT",
   "version": "1.0.0",
   "description": "bot wa simple",
   "main": "index.js",
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mimim-lab/BOT-WA"
+    "url": "git+https://github.com/"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdur Rokhim",
+  "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mimim-lab/BOT-WA/issues"
+    "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/mimim-lab/BOT-WA#readme"
+  "homepage": "https://github.com/#readme"
 }
